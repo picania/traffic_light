@@ -1,2 +1,2 @@
-# traffic_light
+# Traffic Light
 Simple traffic light with Arduino Nano
